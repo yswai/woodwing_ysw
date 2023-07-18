@@ -19,4 +19,4 @@ conversion:
 ## Getting Started
 1. JDK 17, Maven
 2. After compilation successful, swagger-ui is available at ```http://localhost:8080/swagger-ui/index.html#/distance-calculator-controller/calculateDistances``` accessible via web browser
-
+3. Jacoco Test Coverage report can be found at ```target/site/jacoco``` directory
