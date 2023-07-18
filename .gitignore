@@ -1,0 +1,9 @@
+**/.vscode
+**/target
+**/.gradle
+**/build
+
+#idea
+.idea/
+*.iml
+

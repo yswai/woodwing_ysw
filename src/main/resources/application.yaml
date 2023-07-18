@@ -1,0 +1,14 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+conversion:
+  mapping:
+    METER:
+      METER: 1.0
+      YARD: 1.09361
+    YARD:
+      METER: 0.9144
+      YARD: 1.0
